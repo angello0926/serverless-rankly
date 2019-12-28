@@ -5,7 +5,7 @@
 
 ## Use AWS lambda via [Serverless](https://serverless.com/) Framework
 
-This serverless services provide the end points for another API to show ranking and resize image.
+This serverless service provides the end points for another API to show ranking and resize image.
 
 
 To run test:
