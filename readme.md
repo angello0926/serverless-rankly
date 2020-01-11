@@ -1,12 +1,9 @@
-# Part of the Project from Udemy Course 
+# Use AWS lambda via [Serverless](https://serverless.com/) Framework
 
+This is part of the project from the following udemy course
 [The-complete-junior-to-senior-web-developer-roadmap](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/)
 
-
-## Use AWS lambda via [Serverless](https://serverless.com/) Framework
-
 This serverless service provides the end points for another API to show ranking and resize image.
-
 
 To run test:
 `npm run test`
